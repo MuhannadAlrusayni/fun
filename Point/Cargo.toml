@@ -1,0 +1,6 @@
+[package]
+name = "point"
+version = "0.1.0"
+authors = ["Muhannad Alrusayni <muhannad.alrusayni@gmail.com>"]
+
+[dependencies]
